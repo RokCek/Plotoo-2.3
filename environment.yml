@@ -13,6 +13,6 @@ dependencies:
   - prophet
   - lightgbm
   - voila
-  - sklearn
+  - scikit-learn
   - ipywidgets
 prefix: C:\Users\Rok\.conda\envs\ijs-plooto-graphs
