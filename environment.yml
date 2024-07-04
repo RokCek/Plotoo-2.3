@@ -2,6 +2,7 @@ name: ijs-plooto-graphs
 channels:
   - conda-forge
   - defaults
+  - msys2
 dependencies:
   - ipykernel
   - matplotlib
