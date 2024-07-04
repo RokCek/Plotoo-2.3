@@ -1,0 +1,18 @@
+name: ijs-plooto-graphs
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - matplotlib
+  - pandas
+  - openpyxl
+  - ruptures
+  - seaborn
+  - prophet
+  - libpython
+  - m2w64-toolchain
+  - lightgbm
+  - voila
+  - ipywidgets
+prefix: C:\Users\Rok\.conda\envs\ijs-plooto-graphs
