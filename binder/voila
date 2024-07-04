@@ -1,0 +1,2 @@
+# Specify the command to launch Voila
+voila --no-browser --port=$PORT --template=material your_notebook.ipynb
