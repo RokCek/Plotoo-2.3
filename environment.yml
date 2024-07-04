@@ -211,7 +211,7 @@ dependencies:
   - tzdata=2023c=h04d1e81_0
   - uri-template=1.3.0=pyhd8ed1ab_0
   - vc=14.2=h21ff451_1
-  - voila=0.5.7=pyhd8ed1ab_1
+  - voila
   - vs2015_runtime=14.27.29016=h5e58377_2
   - wcwidth=0.2.5=pyhd3eb1b0_0
   - webcolors=24.6.0=pyhd8ed1ab_0
